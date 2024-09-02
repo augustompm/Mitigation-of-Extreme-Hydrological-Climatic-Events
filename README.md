@@ -1,5 +1,5 @@
 # Mitigation-of-Extreme-Hydrological-Climatic-Events
-This GitHub repository presents a systematic review on computational intelligence techniques in flood forecasting and mitigation during Extreme Hydrological Weather Events (EHWE). It includes a dashboard link in the README file.
+This GitHub repository presents the dashboard link of the systematic review: "Técnicas de Inteligência Computacional para Previsão e Mitigação de Eventos Climáticos Hidrológicos Extremos: Uma Revisão Sistemática". 
 
 Dashboard: https://docs.google.com/spreadsheets/d/1kKW1M2wyqeHn9wiZzeCyZKrGgnU4HfguqnK0Wf9pqk8/edit?gid=1221447262#gid=1221447262
 
